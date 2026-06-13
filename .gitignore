@@ -1,6 +1,5 @@
 node_modules/
 dist/
 reports/
-.env
 test-results/
 playwright-report/
